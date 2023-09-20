@@ -1,0 +1,249 @@
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\appsettings.Development.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\appsettings.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.exe
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.deps.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.runtimeconfig.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Azure.Core.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Azure.Identity.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Memory.Data.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.AssemblyReference.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.AssemblyInfoInputs.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.AssemblyInfo.cs
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.CoreCompileInputs.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.MvcApplicationPartsAssemblyInfo.cs
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.Hotel.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.Hotel.WebApi.props
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hotel.WebApi.props
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hotel.WebApi.props
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.pack.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.build.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.development.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\scopedcss\bundle\Hotel.WebApi.styles.css
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.CopyComplete
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\refint\Hotel.WebApi.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.genruntimeconfig.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\ref\Hotel.WebApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\appsettings.Development.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\appsettings.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.exe
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.deps.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.runtimeconfig.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.pdb
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.xml
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Azure.Core.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Azure.Identity.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Memory.Data.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.AssemblyInfo.cs
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.MvcApplicationPartsAssemblyInfo.cs
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.Hotel.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.Hotel.WebApi.props
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hotel.WebApi.props
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hotel.WebApi.props
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.pack.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.build.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.development.json
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\scopedcss\bundle\Hotel.WebApi.styles.css
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.CopyComplete
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\refint\Hotel.WebApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.xml
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.pdb
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.genruntimeconfig.cache
+M:\ObligatorioParte 2\Hotel.ApiWeb\obj\Debug\net7.0\ref\Hotel.WebApi.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Scrutor.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+M:\ObligatorioParte 2\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\appsettings.Development.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\appsettings.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.exe
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.deps.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.runtimeconfig.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.WebApi.xml
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Azure.Core.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Azure.Identity.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Scrutor.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Memory.Data.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.AssemblyInfo.cs
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.MvcApplicationPartsAssemblyInfo.cs
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.Hotel.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.Hotel.WebApi.props
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hotel.WebApi.props
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hotel.WebApi.props
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.pack.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.build.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\staticwebassets.development.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\scopedcss\bundle\Hotel.WebApi.styles.css
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.csproj.CopyComplete
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\refint\Hotel.WebApi.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.xml
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\Hotel.WebApi.genruntimeconfig.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApiWeb\obj\Debug\net7.0\ref\Hotel.WebApi.dll

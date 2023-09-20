@@ -1,0 +1,68 @@
+﻿@model IEnumerable<WebApplicationObligatorio.Models.MaintenanceModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form asp-action="Index">
+    <div class="form-group col-md-2">
+        <label name="fromDate" class="control-label"><Strong>From Date:</Strong></label>
+        <input name="fromDate" class="form-control" type="date" />
+    </div>
+    <div class="form-group col-md-2">
+        <label name="toDate" class="control-label"><strong>To Date:</strong></label>
+        <input name="toDate" class="form-control" type="date" />
+    </div>
+    <input name="cabinId" value="@ViewBag.CabinId" type="hidden" class="form-control "><br />
+    <input type="submit" value="Search" class="btn btn-primary" />
+</form>
+<span class="text-danger">@ViewBag.Message</span>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NameWorker)
+            </th>            
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameWorker)
+            </td>                       
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+    <a asp-action="Create" asp-route-CabinId="@ViewBag.CabinId">Add Maintenance</a>
+    @Html.ActionLink("Back to cabin list", "Index", "Cabin")
+</div>

@@ -1,0 +1,452 @@
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\appsettings.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.staticwebassets.runtime.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.exe
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.deps.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.runtimeconfig.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Humanizer.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.csproj.AssemblyReference.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.AssemblyInfoInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.AssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.RazorAssemblyInfo.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.RazorAssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.WebApplicationObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplicationObligatorio.props
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationObligatorio.props
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationObligatorio.props
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\scopedcss\bundle\WebApplicationObligatorio.styles.css
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\scopedcss\projectbundle\WebApplicationObligatorio.bundle.scp.css
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.csproj.CopyComplete
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\refint\WebApplicationObligatorio.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.genruntimeconfig.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\ref\WebApplicationObligatorio.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\appsettings.Development.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\appsettings.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.staticwebassets.runtime.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.exe
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.deps.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.runtimeconfig.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\WebApplicationObligatorio.pdb
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Humanizer.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Build.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Newtonsoft.Json.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Common.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Configuration.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Frameworks.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.LibraryModel.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Packaging.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.ProjectModel.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Protocol.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\NuGet.Versioning.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.Convention.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.Hosting.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.Runtime.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Composition.TypedParts.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\af\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ar\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\az\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\bg\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\da\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\el\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fa\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\he\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\hr\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\hu\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\hy\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\id\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\is\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ku\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\lv\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\mt\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\nb\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\nl\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ro\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sk\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sl\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sr\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\sv\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\uk\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\vi\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.csproj.AssemblyReference.cache
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.AssemblyInfoInputs.cache
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.AssemblyInfo.cs
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.csproj.CoreCompileInputs.cache
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.MvcApplicationPartsAssemblyInfo.cs
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.MvcApplicationPartsAssemblyInfo.cache
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.RazorAssemblyInfo.cache
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.RazorAssemblyInfo.cs
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.WebApplicationObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplicationObligatorio.props
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationObligatorio.props
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationObligatorio.props
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets.pack.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets.build.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\staticwebassets.development.json
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\scopedcss\bundle\WebApplicationObligatorio.styles.css
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\scopedcss\projectbundle\WebApplicationObligatorio.bundle.scp.css
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.csproj.CopyComplete
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\refint\WebApplicationObligatorio.dll
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.pdb
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\WebApplicationObligatorio.genruntimeconfig.cache
+M:\WebApplicationObligatorio\WebApplicationObligatorio\WebApplicationObligatorio\obj\Debug\net7.0\ref\WebApplicationObligatorio.dll

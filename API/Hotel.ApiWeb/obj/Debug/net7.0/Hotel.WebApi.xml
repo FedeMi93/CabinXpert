@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hotel.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetAllCabins">
+            <summary>
+            Este metodo devuelve todas las cabañas
+            </summary>
+            <returns>IEnumerable cabin</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetCabinByCapacity(System.Int32)">
+            <summary>
+            Este metodo filtra las cabañas por su capacidad y devuelve las que sean mayores o iguales a la idicada
+            </summary>
+            <param name="capacity"></param>
+            <returns>IEnumerable cabin</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetCabinByName(System.String)">
+            <summary>
+            Metodo que devuelve las cabañas filtradas por nombre
+            </summary>
+            <param name="name"></param>
+            <returns>IEnumerableCabin</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetCabinByType(System.String)">
+            <summary>
+            Metodo que devuelve las cabañas filtradas por el tipo de cabaña
+            </summary>
+            <param name="cabinTypeId"></param>
+            <returns>IEnumerableCabin</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetOnlyEnable">
+            <summary>
+            Metodo que devuelve solo las cabañas habilitadas para reserva
+            </summary>        
+            <returns>IEnumerable Cabin</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.CreateCabin(DTOs.CabinDto)">
+            <summary>
+            Creacion de una cabaña en la base de datos
+            </summary>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetPictureName(System.String)">
+            <summary>
+            Metodo que devuelve el nombre de una imagen, dado el nombre de la cabaña
+            </summary>        
+            <returns>String</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.DeleteCabinType(System.Int32)">
+            <summary>
+            Metodo que elimina una cabaña
+            </summary>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinController.GetCabinByCost(System.Int32)">
+            <summary>
+            Metodo que devuelve las cabañas cuyo precio sea menor al indicado 
+            </summary>
+            <param name="cabinCost"></param>
+            <returns>IEnumerable cabin</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinTypeController.GetCabinTypes">
+            <summary>
+            Retorna todos los tipos de cabaña
+            </summary>
+            <returns>Restorna un listado con todas las cabañas</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinTypeController.GetCabinTypesByID(System.Int32)">
+            <summary>
+            Metodo que retorna el tipo de cabaña que coincida con el id enviado
+            </summary>
+            <returns>CabinType</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinTypeController.GetCabinTypeByName(System.String)">
+            <summary>
+            Metodo que retorna el tipo de cabaña que coincida con el nombre enviado
+            </summary>
+            <returns>CabinType</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinTypeController.PutCabinType(System.Int32,System.String,System.Int32)">
+            <summary>
+            Metodo que actualiza un tipo de  cabaña
+            </summary>
+            <returns>CabinType</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinTypeController.CreateCabinType(DTOs.CabinTypeDto)">
+            <summary>
+            Creacion de un tipo de cabaña en la base de datos
+            </summary>
+            
+            <returns>Retorna el tipo de cabaña recién creado</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.CabinTypeController.DeleteCabinType(System.Int32)">
+            <summary>
+            Elimina un tipo de cabaña
+            </summary>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.LoginController.Login(Hotel.WebApi.DTOs.UserDto)">
+            <summary>
+            Metodo que recibe un usuario y devuelve el token
+            </summary>
+            <param name="user">Credenciales del usuario que desea iniciar sesion</param>
+            <returns>Token generada</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.MaintenanceController.GetMaintenance(System.Int32,System.DateTime,System.DateTime)">
+            <summary>
+            Retorna todos los mantenimientos de una cabaña entre fechas determinadas
+            </summary>
+            <returns>IEnumerableMaintenance</returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.MaintenanceController.PostMaintenance(DTOs.MaintenanceDto)">
+            <summary>
+            Creacion de un mantenimiento para una cabaña
+            </summary>
+            
+            <returns></returns>
+        </member>
+        <member name="M:Hotel.WebApi.Controllers.MaintenanceController.GetMaintenancesByCabinCapacity(System.Int32,System.Int32)">
+            <summary>
+            Metodo que dadas dos capacidades de cabaña, devuelve todos los mantenimientos realizados, agrupados por trabajador
+            </summary>
+            <param name="value1"></param>
+            <param name="value2"></param>
+            <returns>IEnumerable Maintenance</returns>
+        </member>
+    </members>
+</doc>

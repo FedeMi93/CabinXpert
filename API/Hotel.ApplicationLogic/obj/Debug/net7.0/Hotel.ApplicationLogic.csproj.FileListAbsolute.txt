@@ -1,0 +1,94 @@
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.deps.json
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CopyComplete
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.deps.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CopyComplete
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.deps.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfoInputs.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfo.cs
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CoreCompileInputs.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CopyComplete
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.deps.json
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfo.cs
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CopyComplete
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2\Hotel.ApplicationLogic\bin\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.deps.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfo.cs
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CopyComplete
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll

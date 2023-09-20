@@ -1,0 +1,278 @@
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Downloads\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio P3\Obligatorio P3\Obligatorio 1\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio02-04\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\Obligatorio15-04-20230421T001510Z-001\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Downloads\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio02-05-2023 2-20230502T183033Z-001\Obligatorio02-05-2023 2\Obligatorio15-04\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio03-05\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio05-05\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio09-05\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Escritorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\Obligatorio10-05Pronto\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\ObligatorioParte 2-20230618T162318Z-001\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+C:\Users\feder\OneDrive\Documentos\Analista en tecnologias de la informacion\Semestre 3\Programacion 3\Obligatorio\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+M:\obligatorio Parte 2 Facu\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+M:\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+M:\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll

@@ -1,0 +1,69 @@
+﻿@model WebApplicationObligatorio.Models.CabinModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CabinModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>                   
+            <div class="form-group">
+                <label asp-for="TypeId" class="control-label">Cabin Type</label>
+                <select asp-for="TypeId" class="form-control" asp-items="ViewBag.CabinTypes"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="JacuzziPriv" /> @Html.DisplayNameFor(model => model.JacuzziPriv)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="EnabledReservation" /> @Html.DisplayNameFor(model => model.EnabledReservation)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuRoom" class="control-label"></label>
+                <input asp-for="NuRoom" class="form-control" />
+                <span asp-validation-for="NuRoom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Capacity" class="control-label"></label>
+                <input asp-for="Capacity" class="form-control" />
+                <span asp-validation-for="Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="image" class="control-label"></label>
+                <input type="file" accept="image/png, image/jpeg" name="image" class="form-control" />
+                <span asp-validation="image" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.Message</p>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

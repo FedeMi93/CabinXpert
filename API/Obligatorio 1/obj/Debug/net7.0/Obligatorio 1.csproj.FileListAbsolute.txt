@@ -1,0 +1,12 @@
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\bin\Debug\net7.0\Obligatorio 1.deps.json
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\bin\Debug\net7.0\Obligatorio 1.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\bin\Debug\net7.0\Obligatorio 1.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.csproj.AssemblyReference.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.AssemblyInfoInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.AssemblyInfo.cs
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.csproj.CoreCompileInputs.cache
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\refint\Obligatorio 1.dll
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\Obligatorio 1.pdb
+C:\Users\orihu\Desktop\ORT 2023\3er Semestre\Programacion 3\OBLIGATORIO\Obligatorio 1\Obligatorio 1\obj\Debug\net7.0\ref\Obligatorio 1.dll

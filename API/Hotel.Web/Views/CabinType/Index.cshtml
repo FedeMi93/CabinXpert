@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Obligatorio_1.Entidades.CabinType>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<h5>Search by name</h5>
+<form asp-action="DetailsByName">
+    <p>
+        <input name= "name" class="form-control" placeholder="Ingrese el nombre del tipo que desea buscar" /><br/>
+        <input type="submit" value="Search" class="btn btn-primary" />       
+    </p>
+</form>
+<span class="text-danger">@ViewBag.MessageSearch</span>
+<h5>Edit by name</h5>
+<form asp-action="EditByName">
+    <p>
+        <input name="name" class="form-control" placeholder="Ingrese el nombre del tipo que desea editar" /><br />
+        <input type="submit" value="Edit" class="btn btn-primary" />
+    </p>
+</form>
+<span class="text-danger">@ViewBag.Message</span>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CostPerson)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CostPerson)
+                </td>
+                <td>
+                    <a asp-action="EditByName" asp-route-name="@item.Name">Edit</a> |
+                    <a asp-action="DetailsById" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="DeleteById" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<h5>Delete by name</h5>
+<form asp-action="DeleteByName">
+    <p>
+        <input name="name" class="form-control" placeholder="Ingrese el nombre del tipo que desea eliminar" /><br />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </p>
+</form>
+<span class="text-danger">@ViewBag.MessageDelete</span>
+
+

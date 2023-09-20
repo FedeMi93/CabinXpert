@@ -1,0 +1,126 @@
+﻿@model IEnumerable<Obligatorio_1.Entidades.Cabin>
+
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<h3>Filter the List</h3>
+<form asp-action="Index">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+
+            <div>
+                <h5>Search by name</h5>
+                <p>
+                    <input name="name" class="form-control" placeholder="Ingrese el nombre a buscar" /><br />
+                </p>
+            </div>
+            <div>
+                <h5>Search by type</h5>
+                <p>
+                    <select name="cabinType" class="form-control" asp-items="ViewBag.CabinTypes">
+                    <option value="">Seleccionar opción</option>
+                    </select>
+                   
+                </p>
+            </div>
+            <div>
+                <h5>Search by capacity</h5>
+                <p>
+                    <input name="capacity" class="form-control" placeholder="Ingrese la capacidad" /><br />
+                </p>
+            </div>
+            <div>
+                <h5>Search by enable cabins</h5>
+                <p>
+                    <label class="form-check-label">
+                        <input class="form-check-input" name="enabledReservation" type="checkbox" value="true" />
+                    </label>
+                </p>
+            </div>
+            <input type="submit" value="Search" class="btn btn-primary" />
+            <div>
+                <p>
+                    <a asp-action="Index" class="btn btn-primary" />Give me all</a>
+                </p>
+            </div>
+
+        </div>
+    </nav>
+</form>
+<span class="text-danger">@ViewBag.Message</span>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NuRoom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JacuzziPriv)
+            </th>
+            <th>                
+                @Html.DisplayNameFor(model => model.Type.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type.CostPerson.Value)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnabledReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Picture)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NuRoom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.JacuzziPriv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type.CostPerson.Value)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnabledReservation)
+                </td>
+                <td>
+                    <img width="250" class="img-thumbnail" src="~/images/pictures/@item.Picture"/>
+                   
+                </td>
+                <td>                   
+                    @Html.ActionLink("Add Maintenance", "Create", "Maintenance", new { cabinId = item.Id }) |
+                    @Html.ActionLink("View Maintenance", "Index", "Maintenance", new { cabinId = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

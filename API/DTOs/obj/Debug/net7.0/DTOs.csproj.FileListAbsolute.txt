@@ -1,0 +1,30 @@
+M:\ObligatorioParte 2\DTOs\bin\Debug\net7.0\DTOs.deps.json
+M:\ObligatorioParte 2\DTOs\bin\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2\DTOs\bin\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2\DTOs\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2\DTOs\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2\DTOs\obj\Debug\net7.0\ref\DTOs.dll
+M:\ObligatorioParte 2 ParaMostrar\DTOs\bin\Debug\net7.0\DTOs.deps.json
+M:\ObligatorioParte 2 ParaMostrar\DTOs\bin\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2 ParaMostrar\DTOs\bin\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2 ParaMostrar\DTOs\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\ObligatorioParte 2 ParaMostrar\DTOs\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.dll
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.pdb
+M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\ref\DTOs.dll
