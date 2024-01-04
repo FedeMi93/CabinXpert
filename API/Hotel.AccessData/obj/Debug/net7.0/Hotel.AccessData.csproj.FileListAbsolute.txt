@@ -276,3 +276,18 @@ M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.Access
 M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
 M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
 M:\ObligatorioParte 2 ParaMostrar\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll
+M:\CabinXpert\API\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.deps.json
+M:\CabinXpert\API\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\CabinXpert\API\Hotel.AccessData\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\CabinXpert\API\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\Hotel.AccessData\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.AssemblyReference.cache
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.GeneratedMSBuildEditorConfig.editorconfig
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfoInputs.cache
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.AssemblyInfo.cs
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CoreCompileInputs.cache
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.csproj.CopyComplete
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.dll
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\refint\Hotel.AccessData.dll
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\Hotel.AccessData.pdb
+M:\CabinXpert\API\Hotel.AccessData\obj\Debug\net7.0\ref\Hotel.AccessData.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj": {}
+    "M:\\CabinXpert\\API\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj": {}
   },
   "projects": {
-    "M:\\ObligatorioParte 2 ParaMostrar\\DTOs\\DTOs.csproj": {
+    "M:\\CabinXpert\\API\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\ObligatorioParte 2 ParaMostrar\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "M:\\CabinXpert\\API\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\DTOs\\DTOs.csproj",
+        "projectPath": "M:\\CabinXpert\\API\\DTOs\\DTOs.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "M:\\ObligatorioParte 2 ParaMostrar\\DTOs\\obj\\",
+        "outputPath": "M:\\CabinXpert\\API\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
-                "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj"
+              "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
+                "projectPath": "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\Hotel.AccessData.csproj": {
+    "M:\\CabinXpert\\API\\Hotel.AccessData\\Hotel.AccessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\Hotel.AccessData.csproj",
+        "projectUniqueName": "M:\\CabinXpert\\API\\Hotel.AccessData\\Hotel.AccessData.csproj",
         "projectName": "Hotel.AccessData",
-        "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\Hotel.AccessData.csproj",
+        "projectPath": "M:\\CabinXpert\\API\\Hotel.AccessData\\Hotel.AccessData.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\obj\\",
+        "outputPath": "M:\\CabinXpert\\API\\Hotel.AccessData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
-                "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj"
+              "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
+                "projectPath": "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj": {
+    "M:\\CabinXpert\\API\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj",
+        "projectUniqueName": "M:\\CabinXpert\\API\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj",
         "projectName": "Hotel.ApplicationLogic",
-        "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj",
+        "projectPath": "M:\\CabinXpert\\API\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApplicationLogic\\obj\\",
+        "outputPath": "M:\\CabinXpert\\API\\Hotel.ApplicationLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,14 +171,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "M:\\ObligatorioParte 2 ParaMostrar\\DTOs\\DTOs.csproj": {
-                "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\DTOs\\DTOs.csproj"
+              "M:\\CabinXpert\\API\\DTOs\\DTOs.csproj": {
+                "projectPath": "M:\\CabinXpert\\API\\DTOs\\DTOs.csproj"
               },
-              "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\Hotel.AccessData.csproj": {
-                "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\Hotel.AccessData.csproj"
+              "M:\\CabinXpert\\API\\Hotel.AccessData\\Hotel.AccessData.csproj": {
+                "projectPath": "M:\\CabinXpert\\API\\Hotel.AccessData\\Hotel.AccessData.csproj"
               },
-              "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
-                "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj"
+              "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
+                "projectPath": "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
+    "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj",
+        "projectUniqueName": "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj",
         "projectName": "Hotel.BusinessLogic",
-        "projectPath": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj",
+        "projectPath": "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\obj\\",
+        "outputPath": "M:\\CabinXpert\\API\\Obligatorio 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

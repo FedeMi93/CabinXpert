@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUV+AS2rtUvnH/5PahBhV19x7NzjYra5WcKGWZWWhVmHB3wn1fF8vI/9f4/HIglsZbKkzPiM50FvqWpG7bBvwg==",
+  "dgSpecHash": "9PvE1KWwok4b6kXms+XJdfGvgCdD4i1tmHplqU4Svl0s/kMK74Tn9EbeeDTzTLiCHnpPVEFTMLpB9dSKVNLIpQ==",
   "success": true,
-  "projectFilePath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.AccessData\\Hotel.AccessData.csproj",
+  "projectFilePath": "M:\\CabinXpert\\API\\Hotel.AccessData\\Hotel.AccessData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

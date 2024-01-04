@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WmmjAV2zuwepo525I5THNjUcFcctz4R5XvNzQIdqCZx0P78+RCA/64S4HTPxCaHhkwok5lhH2MCAXC52jx3xzQ==",
+  "dgSpecHash": "7/t6sz0ZOMjpfsotIl4gYNIEOjzznIO051CgFCPUxxcsA+0IwzmE24X0lOQMMd2X1t0hg45+ExKLpJ6aixOYcg==",
   "success": true,
-  "projectFilePath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApiWeb\\Hotel.WebApi.csproj",
+  "projectFilePath": "M:\\CabinXpert\\API\\Hotel.ApiWeb\\Hotel.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -226,3 +226,15 @@ M:\ObligatorioParte 2 ParaMostrar\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessL
 M:\ObligatorioParte 2 ParaMostrar\Obligatorio 1\obj\Debug\net7.0\refint\Hotel.BusinessLogic.dll
 M:\ObligatorioParte 2 ParaMostrar\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.pdb
 M:\ObligatorioParte 2 ParaMostrar\Obligatorio 1\obj\Debug\net7.0\ref\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\Obligatorio 1\bin\Debug\net7.0\Hotel.BusinessLogic.deps.json
+M:\CabinXpert\API\Obligatorio 1\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\Obligatorio 1\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.csproj.AssemblyReference.cache
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.AssemblyInfoInputs.cache
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.AssemblyInfo.cs
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.csproj.CoreCompileInputs.cache
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\refint\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\CabinXpert\API\Obligatorio 1\obj\Debug\net7.0\ref\Hotel.BusinessLogic.dll

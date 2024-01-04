@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftXCw1zJd0rJgrBm9v0ZvIQHTk35uJ8mcVwaNLKj1HV6asFUh2pWxWesRez+N8sv1sS713LO91RlplR8hSFPEQ==",
+  "dgSpecHash": "yLRw+1SCHq6dFjL9n0qqJEtd/yn2mOxxhh+wxpf3QlP4pgshQGXeKogpLxLlnBNK75e6We68RLBCxVoere85Fw==",
   "success": true,
-  "projectFilePath": "M:\\ObligatorioParte 2 ParaMostrar\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj",
+  "projectFilePath": "M:\\CabinXpert\\API\\Hotel.ApplicationLogic\\Hotel.ApplicationLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

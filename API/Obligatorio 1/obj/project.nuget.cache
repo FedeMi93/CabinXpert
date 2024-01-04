@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTuWiDbN607SPzXDHAUMvKejDAfMfTGw6R3yKdsnFVb4cJK/eLYKMl+Hg2xqpUC1IBMjb/YmFk2tzVIDp9PpbQ==",
+  "dgSpecHash": "puqBud221AU3Vuv/XlnIVdxiotXdnFBub3pqy2FFfTgrO5zahJCwusMScBJJ8DcrFpmt22KI8Nw8TETlVfDJQg==",
   "success": true,
-  "projectFilePath": "M:\\ObligatorioParte 2 ParaMostrar\\Obligatorio 1\\Hotel.BusinessLogic.csproj",
+  "projectFilePath": "M:\\CabinXpert\\API\\Obligatorio 1\\Hotel.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feder\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\feder\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",

@@ -28,3 +28,18 @@ M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.dll
 M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\refint\DTOs.dll
 M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\DTOs.pdb
 M:\ObligatorioParte 2 ParaMostrar\DTOs\obj\Debug\net7.0\ref\DTOs.dll
+M:\CabinXpert\API\DTOs\bin\Debug\net7.0\DTOs.deps.json
+M:\CabinXpert\API\DTOs\bin\Debug\net7.0\DTOs.dll
+M:\CabinXpert\API\DTOs\bin\Debug\net7.0\DTOs.pdb
+M:\CabinXpert\API\DTOs\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\DTOs\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.dll
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\DTOs.pdb
+M:\CabinXpert\API\DTOs\obj\Debug\net7.0\ref\DTOs.dll

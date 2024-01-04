@@ -92,3 +92,22 @@ M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.
 M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
 M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
 M:\ObligatorioParte 2 ParaMostrar\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.deps.json
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\DTOs.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\DTOs.pdb
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.AccessData.pdb
+M:\CabinXpert\API\Hotel.ApplicationLogic\bin\Debug\net7.0\Hotel.BusinessLogic.pdb
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.AssemblyReference.cache
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.GeneratedMSBuildEditorConfig.editorconfig
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfoInputs.cache
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.AssemblyInfo.cs
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CoreCompileInputs.cache
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.csproj.CopyComplete
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\refint\Hotel.ApplicationLogic.dll
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\Hotel.ApplicationLogic.pdb
+M:\CabinXpert\API\Hotel.ApplicationLogic\obj\Debug\net7.0\ref\Hotel.ApplicationLogic.dll
