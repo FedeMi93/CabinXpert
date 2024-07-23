@@ -1,3 +1,94 @@
+### Cottage Hotel Management Project
+
+# This project aims to implement a part of the management of a cottage hotel, focusing primarily on the functionalities related to the cottages and their maintenance.
+
+## Important Information
+
+A series of specific requirements are attached, which are detailed in the project outline provided by the Faculty of Engineering.
+
+# Main Requirements
+## Refactoring with Clean Architecture
+
+Adaptation of business logic.
+Implementation of Value Object for specific attributes.
+Use of Interfaces for repositories.
+Use of custom exceptions for validations. 
+
+### Application Layer
+Inclusion of existing use cases and those added in this stage.
+### Clean Architecture and Layer Communication
+
+Exclusive use of abstractions (Interfaces) and Dependency Injection.
+### Web APIs and Queries
+
+Implementation of CRUD operations with REST orientation.
+Specific queries in Linq and exposure through Web API.
+### Security and Documentation
+
+Implementation of JWT Token for API security.
+Comprehensive documentation with Open API specification and method comments.
+### HttpClient Client
+
+Consumption of Web APIs in a Web MVC project.
+Use of View Models to process HTTP responses and display error messages.
+# Requirements to Implement
+The project aims to implement the following requirements:
+
+### User Registration
+Login and Logout for identified and unidentified users.
+Maintenance of cottage types.
+Registration of cottages and search according to various criteria.
+Registration and search of maintenance performed on cottages.
+Listing of maintenance between dates.
+# Implementation
+## Technologies Used
+Platform: Visual Studio 2022
+Language: C# (.NET 7)
+Database: SQL Server with SqlClient provider
+## Project Structure
+The project is structured in layers that include:
+
+Persistence classes / Repositories.
+MVC Controllers.
+Domain classes.
+## Documentation
+In the Documentation folder, there is a PDF with the functional requirements, as well as class diagrams that model the domain and persistence solution.
+
+## Test Data
+SQL scripts are provided for the creation of tables and test data for the application, ensuring its viability during the defense.
+
+### DATA FOR USING THE APPLICATION
+### Users
+<table style="width:100%">
+<tr>
+<td>MAIL</td>
+<td>PASSWORD</td>
+</tr>
+<tr>
+<td>forihuela@gmail.com</td>
+<td>Facu1234</td>
+</tr>
+<tr>
+<td>fmillot@gmail.com</td>
+<td>Fede1234</td>
+</tr>
+<tr>
+<td>prueba@gmail.com</td>
+<td>Abcd1234</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Proyecto Gestión de Hotel de Cabañas
 
 # Este proyecto tiene como objetivo implementar una parte de la gestión de un hotel de cabañas, enfocándose principalmente en las funcionalidades relativas a las cabañas y sus mantenimientos.
